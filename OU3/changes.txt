@@ -1,0 +1,3 @@
+change 1: 
+
+Fixed for loops to loop until no more values were found instead of looping the entire array.
